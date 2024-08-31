@@ -20,5 +20,7 @@ npm install
 
 Run the project using expo start or npm start
 
+Login into the application using any credentials, as I have not configured any particular test credentials. I have used dummy images and dummy api data for the home listing, used a library for the calculation of the 30m range and show the unlock button accordingly.
+
 
 
