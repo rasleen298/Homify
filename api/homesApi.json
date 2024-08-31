@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "De Avenue",
+      "address": "1234 Elm Street",
+      "description": "A beautiful home near downtown.",
+      "latitude": 40.7128,
+      "longitude": -74.0060,
+    },
+    {
+      "id": 2,
+      "name": "Oak Avenue",
+      "address": "5678 Oak Avenue",
+      "description": "A cozy place in the suburbs.",
+      "latitude": 40.7138,
+      "longitude": -74.0070
+    },
+    {
+        "id": 3,
+        "name": "Oak Avenue",
+        "address": "5678 Oak Avenue",
+        "description": "A cozy place in the suburbs.",
+        "latitude": 40.7138,
+        "longitude": -74.0070
+      },
+      {
+        "id": 4,
+        "name": "Oak Avenue",
+        "address": "5678 Oak Avenue",
+        "description": "A cozy place in the suburbs.",
+        "latitude": 40.7138,
+        "longitude": -74.0070
+      },
+      {
+        "id": 5,
+        "name": "Oak Avenue",
+        "address": "5678 Oak Avenue",
+        "description": "A cozy place in the suburbs.",
+        "latitude": 40.7138,
+        "longitude": -74.0070
+      }
+  ]
+  
