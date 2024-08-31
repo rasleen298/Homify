@@ -9,9 +9,13 @@ Node.js: Install Node.js (v14 or later).
 npm or Yarn: Package manager (npm comes bundled with Node.js).
 Expo CLI
 
+```
 npm install -g expo-cli
-git clone <repository-url>
+
+git clone 'repository-url'
+
 npm install
+```
 
 
 Run the project using expo start or npm start
